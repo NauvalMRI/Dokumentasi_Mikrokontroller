@@ -10,7 +10,7 @@
 ## Pengaturan Board dan port:
 
 <p>
-  <img src="https://github.com/NauvalMRI/Riset_ITCLab_Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/BoardPort.j" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/NauvalMRI/Riset_ITCLab_Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/BoardPort.jpg" alt="" class="img-responsive" width="400">
 </p>
 
 ## Hasil Output Pada Serial Monitor :
