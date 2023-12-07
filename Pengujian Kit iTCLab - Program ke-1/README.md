@@ -4,7 +4,7 @@
 ## Pengaturan References:
 
 <p>
-  <img src="https://github.com/subaaaiii/Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/Preferences.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/NauvalMRI/Riset_ITCLab_Mikrokontroller/blob/main/Pengujian%20Kit%20iTCLab%20-%20Program%20ke-1/Preferences.jpg" alt="" class="img-responsive" width="400">
 </p>
 
 ## Pengaturan Board dan port:
