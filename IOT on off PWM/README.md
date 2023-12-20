@@ -25,7 +25,7 @@ Topik diatur dan didefinisikan agar dapat disesuaikan di aplikasi mqtt panel di 
 ## Output di mqtt panel:
 
 <p>
-  <img src="https://github.com/NauvalMRI/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Panel_MTQQ.jpg" alt="" class="img-responsive" width="400">
+  <img src="https://github.com/NauvalMRI/Mikrokontroller/blob/main/IOT%20on%20off%20PWM/Panel_MTQQ.png" alt="" class="img-responsive" width="400">
 </p>
 Output berdasarkan topik yang diatur pada program arduino, menunjuukan line graph pergerakan perubahan suhu yang dihasilkan.
 
