@@ -1,5 +1,11 @@
 # Laporan_ITCLab_Mikrokontroller
 * KELOMPOK 4 Mikrokontroller
+* Berisi :
+  + data
+  + code
+  + laporan
+  + dokumentasi
+
 
 ## NAMA : 
 Nauval Maulana Rizky Irawan
